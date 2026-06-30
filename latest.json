@@ -1,19 +1,19 @@
 {
-  "version": "0.5.2",
+  "version": "0.5.3",
   "notes": "Fix: Now, when you open a project, you can see the suggestions without having to reopen the files",
-  "pub_date": "2026-06-29 19:11:06.185177051-05:00",
+  "pub_date": "2026-06-30T00:35:26.578Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTi9lZm5kVDJBWGwzOU00VGdFbTZTZzgxYmFKcTRYTnpveGh0SEJ3dThPK3pqU3VDK1lYQy8xUEY2U0VzUmlVUXZTSTBJS0hlRU5nZzhnREtEc0ZPOHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzc3NjE0CWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKN3ZnTjdpWG5pTW1Hd2lpN3hMellWZDVHK0huM1p0TmpWeG9sanlSOTlCeW5MVHY1VGdwVEFLbThlcFNjWjkwTElyK1hVQ0VkMTh4UUtoS3ZZVXVGQ1E9PQo=",
-      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.2/Deepslate_0.5.2_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTjhROGxMOG9LQVRNZHdJNERxamFSN1dvSDQrUGdjT254eElVbkhjZlordXgzbVMwN2p0U0xHaU9TbEFZK3drSkdaMHA4YnpMMmI5NUtNSDZBKzJNVkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzc5ODMyCWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKRHBEdHFha1UrbDg1M3lIZnAwbGMrV2lvWHh3VFFhUFArVm50bThCRWFzRmc3bjBxMjJPbVVqdHo5TGdsc3kzM0x1T3pya1FCa1Zlc0lncjQrWEpZQlE9PQo=",
+      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.3/Deepslate_0.5.3_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTi9lZm5kVDJBWGwzOU00VGdFbTZTZzgxYmFKcTRYTnpveGh0SEJ3dThPK3pqU3VDK1lYQy8xUEY2U0VzUmlVUXZTSTBJS0hlRU5nZzhnREtEc0ZPOHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzc3NjE0CWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKN3ZnTjdpWG5pTW1Hd2lpN3hMellWZDVHK0huM1p0TmpWeG9sanlSOTlCeW5MVHY1VGdwVEFLbThlcFNjWjkwTElyK1hVQ0VkMTh4UUtoS3ZZVXVGQ1E9PQo=",
-      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.2/Deepslate_0.5.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTjhROGxMOG9LQVRNZHdJNERxamFSN1dvSDQrUGdjT254eElVbkhjZlordXgzbVMwN2p0U0xHaU9TbEFZK3drSkdaMHA4YnpMMmI5NUtNSDZBKzJNVkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzc5ODMyCWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKRHBEdHFha1UrbDg1M3lIZnAwbGMrV2lvWHh3VFFhUFArVm50bThCRWFzRmc3bjBxMjJPbVVqdHo5TGdsc3kzM0x1T3pya1FCa1Zlc0lncjQrWEpZQlE9PQo=",
+      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.3/Deepslate_0.5.3_x64-setup.exe"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTi9lZm5kVDJBWGwzOU00VGdFbTZTZzgxYmFKcTRYTnpveGh0SEJ3dThPK3pqU3VDK1lYQy8xUEY2U0VzUmlVUXZTSTBJS0hlRU5nZzhnREtEc0ZPOHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzc3NjE0CWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKN3ZnTjdpWG5pTW1Hd2lpN3hMellWZDVHK0huM1p0TmpWeG9sanlSOTlCeW5MVHY1VGdwVEFLbThlcFNjWjkwTElyK1hVQ0VkMTh4UUtoS3ZZVXVGQ1E9PQo=",
-      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.2/Deepslate_0.5.2_universal.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTjhROGxMOG9LQVRNZHdJNERxamFSN1dvSDQrUGdjT254eElVbkhjZlordXgzbVMwN2p0U0xHaU9TbEFZK3drSkdaMHA4YnpMMmI5NUtNSDZBKzJNVkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzc5ODMyCWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKRHBEdHFha1UrbDg1M3lIZnAwbGMrV2lvWHh3VFFhUFArVm50bThCRWFzRmc3bjBxMjJPbVVqdHo5TGdsc3kzM0x1T3pya1FCa1Zlc0lncjQrWEpZQlE9PQo=",
+      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.3/Deepslate_0.5.3_universal.dmg"
     }
   }
 }
