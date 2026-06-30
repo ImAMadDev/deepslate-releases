@@ -1,19 +1,19 @@
 {
   "version": "0.5.1",
-  "notes": "Fix: Cannot paste in linux devices",
-  "pub_date": "2026-06-12T12:30:09.848Z",
+  "notes": "Fix: Now, when you open a project, you can see the suggestions without having to reopen the files",
+  "pub_date": "2026-06-29 19:11:06.185177051-05:00",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTjBZNDFhMXlOZWtOTHdUREpEdFptQ1A2NlMza2liSnZqYk15OWRLTWlMdGdCdDlpTFNxMGNoV254TmFuQlNhQUIzYzNMU3ZTM0NDc2g2U0YrNmtBS2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY3NDE3CWZpbGU6RGVlcHNsYXRlXzAuNS4xX2FtZDY0LkFwcEltYWdlClo1U01uODhRdnJCSEc3TE9Nb0NGei9vQ3FZL3V6YVNjMi81d1c0UWIxQ0REMUUvUmY2T0FiWWNEL0tSanVRRjY0aktCYzFqR2lWSWRpeUlKNXQ5UkJnPT0K",
-      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/untagged-3e6af258b88854268dc5/Deepslate_0.5.1_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTi9lZm5kVDJBWGwzOU00VGdFbTZTZzgxYmFKcTRYTnpveGh0SEJ3dThPK3pqU3VDK1lYQy8xUEY2U0VzUmlVUXZTSTBJS0hlRU5nZzhnREtEc0ZPOHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzc3NjE0CWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKN3ZnTjdpWG5pTW1Hd2lpN3hMellWZDVHK0huM1p0TmpWeG9sanlSOTlCeW5MVHY1VGdwVEFLbThlcFNjWjkwTElyK1hVQ0VkMTh4UUtoS3ZZVXVGQ1E9PQo=",
+      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.2/Deepslate_0.5.2_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTndCaUowYmk2OUlLSFNxRW1pWDVJVzRrTEV5NVRwSzhaVmNpU1BJdlViVWFYUkVuak00cTRoRk5CVGhKTmtYSEpENkV6YXhDZk5hWnpNaXRNVG1SemdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY3MzYyCWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKMjlPYWllbGVFUnFTZml2RkxJUTRod3NMT2pwMHliSHc4ZXB4TkVlQjNrZVlnL093bnlvZHdrbXg4Ky9MeHZXVWU4c3lLelNFeUI5ZHpRbmhUb0JEQlE9PQo=",
-      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/untagged-3e6af258b88854268dc5/Deepslate_0.5.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTi9lZm5kVDJBWGwzOU00VGdFbTZTZzgxYmFKcTRYTnpveGh0SEJ3dThPK3pqU3VDK1lYQy8xUEY2U0VzUmlVUXZTSTBJS0hlRU5nZzhnREtEc0ZPOHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzc3NjE0CWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKN3ZnTjdpWG5pTW1Hd2lpN3hMellWZDVHK0huM1p0TmpWeG9sanlSOTlCeW5MVHY1VGdwVEFLbThlcFNjWjkwTElyK1hVQ0VkMTh4UUtoS3ZZVXVGQ1E9PQo=",
+      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.2/Deepslate_0.5.2_x64-setup.exe"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTndCaUowYmk2OUlLSFNxRW1pWDVJVzRrTEV5NVRwSzhaVmNpU1BJdlViVWFYUkVuak00cTRoRk5CVGhKTmtYSEpENkV6YXhDZk5hWnpNaXRNVG1SemdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY3MzYyCWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKMjlPYWllbGVFUnFTZml2RkxJUTRod3NMT2pwMHliSHc4ZXB4TkVlQjNrZVlnL093bnlvZHdrbXg4Ky9MeHZXVWU4c3lLelNFeUI5ZHpRbmhUb0JEQlE9PQo=",
-      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/untagged-3e6af258b88854268dc5/Deepslate_0.5.1_universal.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTi9lZm5kVDJBWGwzOU00VGdFbTZTZzgxYmFKcTRYTnpveGh0SEJ3dThPK3pqU3VDK1lYQy8xUEY2U0VzUmlVUXZTSTBJS0hlRU5nZzhnREtEc0ZPOHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzc3NjE0CWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKN3ZnTjdpWG5pTW1Hd2lpN3hMellWZDVHK0huM1p0TmpWeG9sanlSOTlCeW5MVHY1VGdwVEFLbThlcFNjWjkwTElyK1hVQ0VkMTh4UUtoS3ZZVXVGQ1E9PQo=",
+      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.2/Deepslate_0.5.2_universal.dmg"
     }
   }
 }
