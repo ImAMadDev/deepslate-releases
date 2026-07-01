@@ -1,19 +1,19 @@
 {
-  "version": "0.5.3",
-  "notes": "Fix: Now, when you open a project, you can see the suggestions without having to reopen the files",
-  "pub_date": "2026-06-30T00:35:26.578Z",
+  "version": "0.5.4",
+  "notes": "Fixes: The version manager can now remove installed version and language ligatures now work with Fira Code",
+  "pub_date": "2026-07-01T05:53:47.769Z",
   "platforms": {
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTjhROGxMOG9LQVRNZHdJNERxamFSN1dvSDQrUGdjT254eElVbkhjZlordXgzbVMwN2p0U0xHaU9TbEFZK3drSkdaMHA4YnpMMmI5NUtNSDZBKzJNVkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzc5ODMyCWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKRHBEdHFha1UrbDg1M3lIZnAwbGMrV2lvWHh3VFFhUFArVm50bThCRWFzRmc3bjBxMjJPbVVqdHo5TGdsc3kzM0x1T3pya1FCa1Zlc0lncjQrWEpZQlE9PQo=",
-      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.3/Deepslate_0.5.3_amd64.deb"
+      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.4/Deepslate_0.5.4_amd64.deb"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTjhROGxMOG9LQVRNZHdJNERxamFSN1dvSDQrUGdjT254eElVbkhjZlordXgzbVMwN2p0U0xHaU9TbEFZK3drSkdaMHA4YnpMMmI5NUtNSDZBKzJNVkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzc5ODMyCWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKRHBEdHFha1UrbDg1M3lIZnAwbGMrV2lvWHh3VFFhUFArVm50bThCRWFzRmc3bjBxMjJPbVVqdHo5TGdsc3kzM0x1T3pya1FCa1Zlc0lncjQrWEpZQlE9PQo=",
-      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.3/Deepslate_0.5.3_x64-setup.exe"
+      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.4/Deepslate_0.5.4_x64-setup.exe"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTjhROGxMOG9LQVRNZHdJNERxamFSN1dvSDQrUGdjT254eElVbkhjZlordXgzbVMwN2p0U0xHaU9TbEFZK3drSkdaMHA4YnpMMmI5NUtNSDZBKzJNVkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzc5ODMyCWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKRHBEdHFha1UrbDg1M3lIZnAwbGMrV2lvWHh3VFFhUFArVm50bThCRWFzRmc3bjBxMjJPbVVqdHo5TGdsc3kzM0x1T3pya1FCa1Zlc0lncjQrWEpZQlE9PQo=",
-      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.3/Deepslate_0.5.3_universal.dmg"
+      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.4/Deepslate_0.5.4_universal.dmg"
     }
   }
 }
