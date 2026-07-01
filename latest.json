@@ -1,19 +1,19 @@
 {
-  "version": "0.5.4",
-  "notes": "Fixes: The version manager can now remove installed version and language ligatures now work with Fira Code",
-  "pub_date": "2026-07-01T05:53:47.769Z",
+  "version": "0.5.5",
+  "notes": "Fixes: The UI would crash when opening the context menu",
+  "pub_date": "2026-07-01 15:13:45.043520464-05:00",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTjB2c0NJMiswV0NwS0xFL2tCdTZrSVJPYlArdTdtYktKQ3JvOXhMa1cvMGNTWEdYM2tveUJRREdYck9KOUVIUzBKODkvWmFYbjgzMFZrcG9YYVpLWmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODg1MDE4CWZpbGU6RGVlcHNsYXRlXzAuNS40X2FtZDY0LkFwcEltYWdlCmw1cmVQVS8yWVFScm9EU1QrV2ozV2NLNjBtdWl6YmNaQWZhRHRhekJldDJCenZpekhqNFNCMFN3YStPWlgwOWhPdUxiMm8yNWw3TnBQdE9sSE9ZekRBPT0K",
-      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.4/Deepslate_0.5.4_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTjFXQ1VqdjJnYnJjRFVBeU1KaGVldVkxZ1gzOGZ3bUdIWm9Vbk9qMWtHZUhwY0JIVmFHOVlYbVpCNVlXVjZUU1A5ZTZHcE9MR2g5cWdyamh0MmNZekFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTM0MDA0CWZpbGU6RGVlcHNsYXRlXzAuNS41X2FtZDY0LkFwcEltYWdlClFYNjBrVHdPQTY5c0tEcXZoaFROblluTjl6NDNEM09IOU5TaTM1YzYwc3lIQ3RUZSs3QUlObTNnTlArSmhmUGd6NEcrOUxaMnRwa3Q5N3Vid3ZTUEJnPT0K",
+      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.5/Deepslate_0.5.5_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTjhROGxMOG9LQVRNZHdJNERxamFSN1dvSDQrUGdjT254eElVbkhjZlordXgzbVMwN2p0U0xHaU9TbEFZK3drSkdaMHA4YnpMMmI5NUtNSDZBKzJNVkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzc5ODMyCWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKRHBEdHFha1UrbDg1M3lIZnAwbGMrV2lvWHh3VFFhUFArVm50bThCRWFzRmc3bjBxMjJPbVVqdHo5TGdsc3kzM0x1T3pya1FCa1Zlc0lncjQrWEpZQlE9PQo=",
-      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.4/Deepslate_0.5.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTjc1WUxId2FPc0ZZbW9Bc0tIVlM5SlhmdTA5ZUNrUzJsbFRxMHQ3ZWNGdnI2d2FkdHdlK3FrN0MyZ0V3alZGZ1lZc0VxY2ZMWStJVHhHSkN5VXhEN2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTM0MTIxCWZpbGU6RGVlcHNsYXRlXzAuNS41X3g2NC1zZXR1cC5leGUKVVhHZUZPWnZ6OCtzTkFrd1hpVnpwazkwdmZZeTJXVUtQNmJrYnZXeUwzUzJoTUdCZVA3aFNSdS9yOENNMTJCSDB0MXhKa0M4Zmt0SWtKM3EzWXVtQWc9PQo=",
+      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.5/Deepslate_0.5.5_x64-setup.exe"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTjhuYU11b0NGakVCZ3FFYy9GZXlKaDh3R3VibUhZRUhBcXpIMkl2RFE4eUpuMENFaVJPWHpCK2I0bG9uZ3dTN1lGN2VSQ2UwWFlQeSt0SDZwNjZvWndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODg1MDgzCWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKdXdQNXBqK05YZFMvTktCWlhvK2Ywem1CUXZubjdDZUJVbnJkdTY4LzBBZmJVMk9rT1NqOE54Q1FQdFlIalh2dE03d092Sm5ZMS9kYW9GcjVoS3dZQUE9PQo=",
-      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.4/Deepslate_0.5.4_universal.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVg0R3BZMjFtTjNyQys3WkZYUWVqa3BBTGVUVFNTMkNCVTk4cXc0T0FjWE1aVmxNUk9uRWVHUWlqczF5ejRsbytyV0lSTWQ0KzZIQ3Y3SXhEWWoyWTRGcjZJYWNTdGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTM0MDcxCWZpbGU6RGVlcHNsYXRlLmFwcC50YXIuZ3oKZ3ZwTTlWclI3dC9GSldxQXc4SDIwcmhtR2RqZERLQ00zVVpOQXZzdlhVVXI5OXJNalpwS1NjMmNJNDlEM0dHSGJtR0N4aXVoNEdPOUROS1Z4OFF3QVE9PQo=",
+      "url": "https://github.com/ImAMadDev/deepslate-releases/releases/download/0.5.5/Deepslate_0.5.5_universal.dmg"
     }
   }
 }
